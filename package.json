@@ -4,7 +4,7 @@
   "author": "rjwx60",
   "description": "a rollup test",
   "keywords": "rollup, test, reactUI",
-  "main": "lib/bundle.js",
+  "main": "lib/index.js",
   "license": "MIT",
   "scripts": {
     "start": "yarn run rollup -c -w",
